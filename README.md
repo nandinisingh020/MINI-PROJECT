@@ -36,14 +36,14 @@ pip install opencv-python numpy
 
 Run the Python file:
 
--The system captures the background frame for a few seconds using the webcam.
--Each video frame is captured in real time.
--The red-colored cloak is detected using HSV color segmentation.
--A mask is created to identify the cloak region.
--Morphological operations are applied to remove noise from the mask.
--The detected cloak area is replaced with the stored background image.
--The final output frame creates an invisibility effect in real time.
--Press q to exit the application.
+- The system captures the background frame for a few seconds using the webcam.
+- Each video frame is captured in real time.
+- The red-colored cloak is detected using HSV color segmentation.
+- A mask is created to identify the cloak region.
+- Morphological operations are applied to remove noise from the mask.
+- The detected cloak area is replaced with the stored background image.
+- The final output frame creates an invisibility effect in real time.
+- Press q to exit the application.
 
 ---
 
