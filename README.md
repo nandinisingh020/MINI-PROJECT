@@ -44,6 +44,24 @@ Press `q` to exit the application.
 
 ---
 
+## Project Outcome
+Successfully implemented a real-time invisibility cloak effect demonstrating concepts of computer vision, image segmentation, masking, and video processing.
+
+---
 ## Team Members
 
 - Nandini Singh
+- EN23CS301658
+
+## Future Improvements
+- Support for multiple cloak colors
+- Improved object detection accuracy
+- AI-based background reconstruction
+- Better performance optimization
+- Mobile and web application integration
+
+---
+
+## Conclusion
+The Invisible Cloak Project demonstrates the practical implementation of computer vision and image processing concepts using OpenCV. The project helped in understanding real-time video processing, color detection, masking techniques, and background replacement while creating an interactive and innovative application.
+
