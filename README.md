@@ -22,3 +22,6 @@ Run the Project
 python invisible_cloak.py
 
 Press q to exit the application.
+
+Team Members
+Nandini Singh
